@@ -156,7 +156,7 @@ git push -u origin main
 Use Prometheus and Grafana to monitor system performance. Access the monitoring dashboard via Grafana to visualize metrics such as CPU and memory usage.
 
 ## Links
-- **Docker Hub Image**: `docker pull rpillaiakshay/myapp:latest`
+- **Docker Hub Image**: `docker pull niha070/myapp:latest`
 
 ## Conclusion
 The project leverages a robust Jenkins pipeline that automates the continuous integration and deployment of the microservice-based e-commerce application. By using Docker to containerize the microservices, the pipeline ensures that the application is efficiently built, tested & pushed to Docker Hub. The Docker Hub image for the e-commerce application provides a lightweight, containerized microservice with endpoints for health checks and product management. It is designed to be scalable and easily integrated into a larger application setup.
